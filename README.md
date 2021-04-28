@@ -1,12 +1,8 @@
-Amazon Price Tracker
+Twilio Amazon Price Tracker
 ==============
 
-Receive a Pushbullet notification when a specific Amazon product has dropped below the desired price.
-
-#### Install Node.js
-```
-https://nodejs.org/
-```
+Utilize Twilio SMS API to recieve text updates when a desired Amazon product has reached a desired price.
+This project was created for an article I wrote for the Twilio blog.
 
 Install the project dependencies: 
 ```
